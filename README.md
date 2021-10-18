@@ -1,16 +1,51 @@
-### Hi there 👋
+<img align='center' src="profile.gif">
 
-<!--
-**00xData/00xData** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Whoami <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+
+
+Im a Pentester & Bounty Hunter from Mexico. I have a passion for learning and improve my skills every day.
+
+
+   <img src="bar2.gif">
+
+<p align='center'>
+  <a href="https://twitter.com/00xdata"><img height="30" src="twitter.png"></a>&nbsp;&nbsp;
+   <a href="https://app.hackthebox.eu/profile/273847"><img height="33" src="htb.png"></a>&nbsp;&nbsp;
+<a href="https://hackerone.com/00xdata"><img height="30" src="h1.png"></a>&nbsp;&nbsp;
+   <a href="https://bugcrowd.com/00xData"><img height="30" src="c1rowd.png"></a>
+</p>
+   <img src="bar2.gif">
+
+ 
+<img width="250" align='left' src="oscp.png"><br />
+
+ 
+### OSCP
+
+Im now on the road to archive OSCP certification, i want to share all the things in this challenge, starting with writeups from machines i used to study, to tools, cheat sheet, commands and other usefull stuff.
+
+&nbsp;&nbsp;
+&nbsp;&nbsp;
+&nbsp;&nbsp;<img src="bar2.gif">
+
+
+
+<p>
+  <a href="WEB"><img width="650" align='right' src="target.gif"></a>
+</p>
+
+### My Scope 🎯
+
+I have secured over 40+ companies which includes some big companies like Netflix, Spotify, Nintendo, RockstarGames, Starbucks, RedBull and many more. 
+
+
+### Technologies & Tools 🔧
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=DE004E))
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=DE004E)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=DE004E)
+![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=DE004E)
+
+![](https://komarev.com/ghpvc/?username=00xdata&color=gray)
