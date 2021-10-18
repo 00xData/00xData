@@ -1,6 +1,7 @@
-<img align='center' src="https://raw.githubusercontent.com/00xData/00xData/main/assets/Profile.gif">
 
 **Dark Theme Only**
+<img align='center' src="https://raw.githubusercontent.com/00xData/00xData/main/assets/Profile.gif">
+
 
 ### Whoami <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
