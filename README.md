@@ -1,4 +1,4 @@
-<img align='center' src="profile.gif">
+<img align='center' src="https://raw.githubusercontent.com/00xData/00xData/main/assets/Profile.gif">
 
 
 
@@ -9,18 +9,18 @@
 Im a Pentester & Bounty Hunter from Mexico. I have a passion for learning and improve my skills every day.
 
 
-   <img src="bar2.gif">
+   <img src="https://raw.githubusercontent.com/00xData/00xData/main/assets/bar2.gif">
 
 <p align='center'>
-  <a href="https://twitter.com/00xdata"><img height="30" src="twitter.png"></a>&nbsp;&nbsp;
-   <a href="https://app.hackthebox.eu/profile/273847"><img height="33" src="htb.png"></a>&nbsp;&nbsp;
-<a href="https://hackerone.com/00xdata"><img height="30" src="h1.png"></a>&nbsp;&nbsp;
-   <a href="https://bugcrowd.com/00xData"><img height="30" src="c1rowd.png"></a>
+  <a href="https://twitter.com/00xdata"><img height="30" src="https://raw.githubusercontent.com/00xData/00xData/main/assets/twitter.png"></a>&nbsp;&nbsp;
+   <a href="https://app.hackthebox.eu/profile/273847"><img height="33" src="https://raw.githubusercontent.com/00xData/00xData/main/assets/htb.png"></a>&nbsp;&nbsp;
+<a href="https://hackerone.com/00xdata"><img height="30" src="https://raw.githubusercontent.com/00xData/00xData/main/assets/h1.png"></a>&nbsp;&nbsp;
+   <a href="https://bugcrowd.com/00xData"><img height="30" src="https://raw.githubusercontent.com/00xData/00xData/main/assets/bugcrowd.png"></a>
 </p>
    <img src="bar2.gif">
 
  
-<img width="250" align='left' src="oscp.png"><br />
+<img width="250" align='left' src="https://raw.githubusercontent.com/00xData/00xData/main/assets/oscp.png"><br />
 
  
 ### OSCP
@@ -29,12 +29,12 @@ Im now on the road to archive OSCP certification, i want to share all the things
 
 &nbsp;&nbsp;
 &nbsp;&nbsp;
-&nbsp;&nbsp;<img src="bar2.gif">
+&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/00xData/00xData/main/assets/bar2.gif">
 
 
 
 <p>
-  <a href="WEB"><img width="650" align='right' src="target.gif"></a>
+  <a href="WEB"><img width="650" align='right' src="https://raw.githubusercontent.com/00xData/00xData/main/assets/target.gif"></a>
 </p>
 
 ### My Scope 🎯
