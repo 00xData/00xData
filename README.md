@@ -35,7 +35,7 @@ Im now on the road to archive OSCP certification, i want to share all the things
 
 
 <p>
-  <a href="WEB"><img width="650" align='right' src="https://raw.githubusercontent.com/00xData/00xData/main/assets/target.gif"></a>
+  <a href="WEB"><img width="650" align='right' src="https://github.com/00xData/00xData/blob/main/assets/target.gif"></a>
 </p>
 
 ### My Scope 🎯
