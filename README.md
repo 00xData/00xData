@@ -17,7 +17,7 @@ Im a Pentester & Bounty Hunter from Mexico. I have a passion for learning and im
 <a href="https://hackerone.com/00xdata"><img height="30" src="https://raw.githubusercontent.com/00xData/00xData/main/assets/h1.png"></a>&nbsp;&nbsp;
    <a href="https://bugcrowd.com/00xData"><img height="30" src="https://raw.githubusercontent.com/00xData/00xData/main/assets/bugcrowd.png"></a>
 </p>
-   <img src="bar2.gif">
+   <img src="https://raw.githubusercontent.com/00xData/00xData/main/assets/bar2.gif">
 
  
 <img width="250" align='left' src="https://raw.githubusercontent.com/00xData/00xData/main/assets/oscp.png"><br />
