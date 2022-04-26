@@ -8,7 +8,7 @@
 
 
 Im a Pentester & Bounty Hunter from Mexico. I have a passion for learning and improve my skills every day.
-
+Ousider of places, wandering of times,
 
    <img src="https://raw.githubusercontent.com/00xData/00xData/main/assets/bar2.gif">
 
