@@ -11,11 +11,14 @@ Im a Pentester & Bounty Hunter from Mexico. I have a passion for learning and im
 
    <img src="https://raw.githubusercontent.com/00xData/00xData/main/assets/bar2.gif">
 
+### My Links
+
 <p align='center'>
   <a href="https://twitter.com/00xdata"><img height="30" src="https://raw.githubusercontent.com/00xData/00xData/main/assets/twitter.png"></a>&nbsp;&nbsp;
    <a href="https://app.hackthebox.eu/profile/273847"><img height="33" src="https://raw.githubusercontent.com/00xData/00xData/main/assets/htb.png"></a>&nbsp;&nbsp;
-<a href="https://hackerone.com/00xdata"><img height="30" src="https://raw.githubusercontent.com/00xData/00xData/main/assets/h1.png"></a>&nbsp;&nbsp;
+<a href="https://hackerone.com/00xdata-"><img height="30" src="https://raw.githubusercontent.com/00xData/00xData/main/assets/idUJYgbsdP_1768608528303.png"></a>&nbsp;&nbsp;
    <a href="https://bugcrowd.com/00xData"><img height="30" src="https://raw.githubusercontent.com/00xData/00xData/main/assets/bugcrowd.png"></a>
+   <a href="https://app.intigriti.com/profile/00xdata"><img height="30" src="https://raw.githubusercontent.com/00xData/00xData/main/assets/intigriti_logo_icon_248000.png"></a>
 </p>
    <img src="https://raw.githubusercontent.com/00xData/00xData/main/assets/bar2.gif">
 
